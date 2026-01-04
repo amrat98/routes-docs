@@ -1,0 +1,39 @@
+# Jekyll configuration for GitHub Pages
+
+# Site settings
+title: Routes Documentation
+description: Documentation for Routes - Background Location Tracking
+baseurl: "/routes-docs" # the subpath of your site, e.g. /blog
+url: "https://amrat98.github.io" # the base hostname & protocol for your site
+
+# Build settings
+markdown: kramdown
+theme: jekyll-theme-cayman
+
+# Plugins
+plugins:
+  - jekyll-relative-links
+  - jekyll-optional-front-matter
+
+# Enable relative links to markdown files
+relative_links:
+  enabled: true
+  collections: false
+
+# Convert markdown files to pages even without front matter
+optional_front_matter:
+  remove_originals: false
+
+# Include files/folders
+include:
+  - BACKGROUND_MODE_QUICK_START.md
+  - README.md
+
+# Exclude files from processing
+exclude:
+  - .github/
+  - .git/
+  - Gemfile
+  - Gemfile.lock
+  - node_modules/
+  - vendor/

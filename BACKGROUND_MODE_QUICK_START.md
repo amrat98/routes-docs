@@ -1,3 +1,9 @@
+---
+layout: default
+title: Background Mode Quick Start
+description: Quick start guide for implementing background location tracking in your driver app
+---
+
 # 🚀 Quick Start: Background Location for Driver App
 
 ## Problem Solved
