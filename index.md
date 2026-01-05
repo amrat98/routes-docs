@@ -11,6 +11,8 @@ Welcome to the Routes documentation site! This documentation helps you implement
 
 📍 **[Background Mode Quick Start](./BACKGROUND_MODE_QUICK_START.md)** - Learn how to implement background location tracking for your driver app
 
+🔌 **[React Native Socket Integration](./REACT_NATIVE_SOCKET_INTEGRATION.md)** - Complete Socket.io integration guide for React Native driver and user apps
+
 ---
 
 ### What You'll Learn
