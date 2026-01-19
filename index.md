@@ -13,6 +13,8 @@ Welcome to the Routes documentation site! This documentation helps you implement
 
 🔌 **[React Native Socket Integration](./REACT_NATIVE_SOCKET_INTEGRATION.md)** - Complete Socket.io integration guide for React Native driver and user apps
 
+💳 **[Payment API Integration](./payment-api-integration.md)** - Razorpay wallet top-up integration with complete API reference
+
 ---
 
 ### What You'll Learn
